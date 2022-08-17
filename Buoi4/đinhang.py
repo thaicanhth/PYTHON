@@ -1,0 +1,5 @@
+print("Hello {}".format("Tom"))
+print("Hello {} and {}".format("Tom", "Jerry"))
+print("Hello {1} and {0}".format("Tom", "Jerry"))
+print("Hello {:^10}, {:<10} and {:>15}".format("Dog", "Tom", "Jerry"))
+print("Hello {:-^10}, {:<10} and {:>15}".format("", "Tom", "Jerry"))
