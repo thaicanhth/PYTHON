@@ -1,0 +1,6 @@
+print("hello it20a3b")
+print(5 / 2)
+print("Thai Canh")
+print("it20a3b")
+print("cntt")
+print("Đong A")
